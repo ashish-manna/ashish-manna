@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/ashish-manna/ashish-manna"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Utsav;I+am+a+Undergraduate+student;Web+Dev;Data+structures +and+algorithm;%3C3"></a>
+  <a href="https://github.com/ashish-manna/ashish-manna"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Ashish;I+am+a+Undergraduate+student;Web+Dev;Data+structures +and+algorithm;%3C3"></a>
 </p>
 
 ---

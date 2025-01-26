@@ -38,7 +38,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ashish-manna&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://ghchart.rshah.org/409ba5/2016rshah" alt="2016rshah's Blue Github Chart" />
+<img src="https://ghchart.rshah.org/409ba5/ashish-manna" alt="Ashish's Blue Github Chart" />
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)

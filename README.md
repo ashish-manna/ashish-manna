@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on React Js
+🔭 I’m currently working on Next Js
   
-🌱 I’m currently learning : Node.js
+🌱 I’m currently learning : Three.js
 
   👯 I’m looking to collaborate on my webpage
 

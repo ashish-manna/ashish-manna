@@ -49,7 +49,7 @@
  
 
 # 📊GitHub Stats :
-![](https://git-hub-streak-stats.vercel.app/?user=ashish-manna&theme=radical&hide_border=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=ashish-manna&theme=radical&hide_border=false&count_private=true)
 
 
 ## 🏆GitHub Trophies

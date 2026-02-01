@@ -19,7 +19,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  Mail me at "m.ashish1920@gmail.com"
+  Mail me at "m.ashish1920@gmail.com" <br/>
   [in] [LinkedIn](https://www.linkedin.com/in/manna-ashish)
   
 

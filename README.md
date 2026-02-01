@@ -20,7 +20,8 @@
 
   📫 How to reach me:  
   Mail me at "m.ashish1920@gmail.com"
-
+  [in] [LinkedIn](https://www.linkedin.com/in/manna-ashish)
+  
 
 
 

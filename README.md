@@ -21,7 +21,6 @@
   📫 How to reach me:  
   Mail me at "m.ashish1920@gmail.com" <br/>
   [in] [LinkedIn](https://www.linkedin.com/in/manna-ashish) <br/>
-  📃 [My resume](https://ashish-docs.s3.ap-south-1.amazonaws.com/ashish's_resume.pdf)
   
 
 
